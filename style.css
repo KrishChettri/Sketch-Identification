@@ -1,0 +1,27 @@
+#score{
+    margin-left: 5px;
+    font-size: 20px;
+}
+#timer{
+    float: right;
+    margin-right: 5px;
+    font-size: 20px;
+}
+body{
+    background-color: rgb(0,145,213);
+}
+h1{
+    background-color: orange;
+    color: black;
+}
+#show_sketch{
+    float: right;
+}
+p{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+#sketch_to_be_drawn{
+    font-size: 25px;
+    color: red;
+}
